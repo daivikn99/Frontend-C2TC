@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+}
+.sp1{
+    line-height: 2.5;
+}
+.t1{
+    font-size: 45px;
+}
+.cs1{
+    display: block;
+    height: 655px;
+    background-color: rgb(250, 244, 234);
+}
+.cs2{
+    display: inline-block;
+    width: 17%;
+    margin-left: 55px;
+}
+
+.bt1{
+    background-color: rgba(0, 255, 42, 0.925);
+    font-weight: bolder;
+    color:white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 50px;
+    border: none;
+}
+.cs3{
+    display: inline-block;
+    width:78%;
+}
+.cs4{
+    display: inline-block;
+    width: 71%;
+}
+.cs5{
+    display: inline-block;
+    width: 28%;
+}
+.cs6{
+    display: inline;
+}
+.cs7{
+    display: inline-block;
+}
+.t2{
+    font-size: 85px;
+}
+fieldset{
+    display: inline-block;
+    height:208px;
+    width: 163px;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    margin-left: 13px;
+    text-align: center;
+}
+img{
+    height: 131px;
+    width: 141px;
+    border-radius: 50%;
+}
+.t3{
+    text-align: center;
+    font-weight: bolder;
+}
